@@ -5,7 +5,10 @@ Here how its Looks,
 <br/>
 ![image alt](https://github.com/Priyanka-seo/Work-Portfolio/blob/b25832ac7c47e825624900bbd7b5fa861fafb8c5/AI%20Overview.jpg)
 
-
+## 3RI Technologies – AI Overview Results for Blogs
+Screenshots showing how blogs from 3RI Technologies appear in Google AI Overviews. This highlights the AI visibility our content is getting in search results.
+<br/>
+<br/>
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/3061abc6-c469-43d6-b0f3-ab4377b3fff1" width="100%"/></td>
