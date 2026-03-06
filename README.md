@@ -37,4 +37,6 @@ Screenshots showing how blogs from 3RI Technologies appear in Google AI Overview
 - Focus on relevant keywords and long-tail queries audience searches for.
 - Ensure content accuracy and trustworthiness—AI favors reliable sources.
 - Monitor which content appears in AI Overviews and refine based on patterns.
-  
+
+  <img width="522" height="293" alt="image" src="https://github.com/user-attachments/assets/3cf8bce2-ba9c-41e6-9ce6-2bd41c238507" />
+
