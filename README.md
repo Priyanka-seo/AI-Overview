@@ -31,4 +31,10 @@ Screenshots showing how blogs from 3RI Technologies appear in Google AI Overview
 - Indirectly improve keyword rankings for related queries.
 - Shows which content Google considers high-quality or useful, guiding future content strategy.
 
+## How to Optimize for AI Overviews
+- Create clear, concise, and authoritative content that answers specific queries.
+- Use structured data, headings, and lists to make content easier for AI to parse.
+- Focus on relevant keywords and long-tail queries audience searches for.
+- Ensure content accuracy and trustworthiness—AI favors reliable sources.
+- Monitor which content appears in AI Overviews and refine based on patterns.
   
